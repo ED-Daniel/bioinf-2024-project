@@ -1,12 +1,20 @@
 # Отчет о Entamoeba Nutalli
 Итоговый групповой проект по биоинформатике по исслодования амеб (моя Entamoeba nutalli)
 
+## Отчетные файлы
+3 файла находятся в папке [report](./report/)
+
 ## Тетрадки
 Опеределнию квадруплексов: https://colab.research.google.com/drive/1gF63XPlJnFlIhVMfIwNvNo3IvJml5XeT?usp=sharing <br>
 ZDNABERT: https://colab.research.google.com/drive/1lBE1pLN4O4cCwmP8jhUu_tVp3vtupNKL?usp=sharing <br>
 HMMer: https://colab.research.google.com/drive/1B0AqfnmUHM3_kubN7z9DZljReB7Z7BAc?usp=sharing <br>
 
 ## Таблички
+|Проверяемое свойство|Название гена|
+|:-----------:|:----:|
+|Test|Test|
+
+
 |Участок|Число квадруплексов|Доля квадруплексов|Число предсказаний Zhun|Доля предсказаний Zhun|Число предсказаний ZDNABERT|Доля предсказаний ZDNABERT|
 |:------:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Exons | 0 | 0.00% | 227 | 61.18% | 0 | 0.00% |
