@@ -2,7 +2,8 @@
 Итоговый групповой проект по биоинформатике по исслодования амеб (моя Entamoeba nutalli)
 
 ## Отчетные файлы
-3 файла находятся в папке [report](./report/)
+- Файл генома в папке [genome](./genome/)
+- 3 файла находятся в папке [report](./report/)
 
 ## Тетрадки
 Опеределнию квадруплексов: https://colab.research.google.com/drive/1gF63XPlJnFlIhVMfIwNvNo3IvJml5XeT?usp=sharing <br>
