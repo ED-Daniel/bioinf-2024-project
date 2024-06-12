@@ -3,7 +3,8 @@
 
 ## Тетрадки
 Опеределнию квадруплексов: https://colab.research.google.com/drive/1gF63XPlJnFlIhVMfIwNvNo3IvJml5XeT?usp=sharing <br>
-HMMer: https://colab.research.google.com/drive/1B0AqfnmUHM3_kubN7z9DZljReB7Z7BAc?usp=sharing
+ZDNABERT: https://colab.research.google.com/drive/1lBE1pLN4O4cCwmP8jhUu_tVp3vtupNKL?usp=sharing <br>
+HMMer: https://colab.research.google.com/drive/1B0AqfnmUHM3_kubN7z9DZljReB7Z7BAc?usp=sharing <br>
 
 ## Таблички
 |Участок|Число квадруплексов|Доля квадруплексов|Число предсказаний Zhun|Доля предсказаний Zhun|Число предсказаний ZDNABERT|Доля предсказаний ZDNABERT|
