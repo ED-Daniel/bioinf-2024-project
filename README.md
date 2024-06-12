@@ -14,3 +14,6 @@ HMMer: https://colab.research.google.com/drive/1B0AqfnmUHM3_kubN7z9DZljReB7Z7BAc
 |Promoters (1000 up from TSS) | 0 | 0.00% | 78 | 21.02% | 0 | 0.00% |
 |Downstream (200 bp) | 0 | 0.00% | 9 | 2.43% | 0 | 0.00% | 
 |Intergenic | 0 | 0.00% | 144 | 38.81% | 8 | 100.00% |
+
+### Пометка
+У меня не нашлось квадруплексов по регулярке, поэтому файл quadr.bed пустой и данных о числе квадрупелксов нет
