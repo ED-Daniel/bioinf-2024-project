@@ -18,7 +18,7 @@ Entamoeba nuttalli — это вид паразитической амебы, б
 - 3 файла находятся в папке [report](./report/)
 
 ## Тетрадки
-Опеределнию квадруплексов: https://colab.research.google.com/drive/1gF63XPlJnFlIhVMfIwNvNo3IvJml5XeT?usp=sharing <br>
+Определение квадруплексов: https://colab.research.google.com/drive/1gF63XPlJnFlIhVMfIwNvNo3IvJml5XeT?usp=sharing <br>
 ZDNABERT: https://colab.research.google.com/drive/1lBE1pLN4O4cCwmP8jhUu_tVp3vtupNKL?usp=sharing <br>
 HMMer: https://colab.research.google.com/drive/1B0AqfnmUHM3_kubN7z9DZljReB7Z7BAc?usp=sharing <br>
 
