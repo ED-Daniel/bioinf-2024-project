@@ -25,7 +25,16 @@ HMMer: https://colab.research.google.com/drive/1B0AqfnmUHM3_kubN7z9DZljReB7Z7BAc
 ## Таблички
 |Проверяемое семейство|Название гена|
 |:-----------:|:----:|
-|Test|Test|
+|Pkinase|ENU1_062640|
+|DnaJ|ENU1_148830|
+|Acetyltransf_1|ENU1_174980|
+|Chromo|ENU1_101900|
+|PHD|ENU1_018820|
+|TUDOR|ENU1_128240|
+|Cullin|ENU1_005600|
+|PF00856|ENU1_084960|
+|PF02373|-|
+|Kelch_1|ENU1_082730|
 
 
 |Участок|Число квадруплексов|Доля квадруплексов|Число предсказаний Zhun|Доля предсказаний Zhun|Число предсказаний ZDNABERT|Доля предсказаний ZDNABERT|
