@@ -16,6 +16,7 @@ Entamoeba nuttalli — это вид паразитической амебы, б
 ## Отчетные файлы
 - Файл генома в папке [genome](./genome/)
 - 3 файла находятся в папке [report](./report/)
+- В [common](./common/) находятся файлы для общей части проекта
 
 ## Тетрадки
 Определение квадруплексов: https://colab.research.google.com/drive/1gF63XPlJnFlIhVMfIwNvNo3IvJml5XeT?usp=sharing <br>
